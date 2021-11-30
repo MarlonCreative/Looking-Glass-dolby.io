@@ -1,5 +1,5 @@
       // reference your own local copy of holoplay.js
-      import * as HoloPlay from '../dist/holoplay.module.js';
+      import * as HoloPlay from 'holoplay.module.js';
 
       
       var scene, camera, renderer;
