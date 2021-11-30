@@ -1,3 +1,3 @@
 [build]
- publish = "examples/basic"
+ publish = "www"
  command = "echo no build commands yet"
