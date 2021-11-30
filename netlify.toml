@@ -1,0 +1,3 @@
+[build]
+ publish = "examples/basic"
+ command = "npm build"
