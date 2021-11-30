@@ -1,5 +1,7 @@
       // reference your own local copy of holoplay.js
       import * as HoloPlay from '../../dist/holoplay.module.js';
+
+      
       var scene, camera, renderer;
       var geometry, material, mesh;
 
