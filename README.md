@@ -1,10 +1,11 @@
 Two ways to communicate 
 
 Use your regular desktop set up to call with someone and share video. 
-1. https://lookingglass-conference.netlify.app/
+https://lookingglass-conference.netlify.app/
 
 Use your looking glass portrait hologram display to talk and share 3D
-2.https://lookingglass-dolbyio-player.netlify.app/
+
+https://lookingglass-dolbyio-player.netlify.app/
 
 To build the hologram app we used the following
 
